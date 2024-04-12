@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- ⚡ I'm Alex, a passionate engineer with an interest in A.I.
+- ⚡ I'm Alex, a passionate engineer from Portugal with an interest in A.I.
 - 💬 Always open to contribute to open source
-- 📫 You can reach out to me using LinkedIn
+- 📫 You can reach out to me using [linkedin]
 
 <!--![](https://github-readme-stats.vercel.app/api?username=alexpaiva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
